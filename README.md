@@ -3,7 +3,7 @@ a bunch of "hello world" programs in different languages.
 
 ## building stuff
 - for ada, build using [GNAT](http://www.getadanow.com/).
-- for batchfile, just double-click it on windows or use wine if you're on linux.
+- for batchfile, just double-click it on windows or use [wine](https://www.winehq.org/) if you're on linux.
 - for c, use gcc.
 - for c# use roslyn or mono compiler.
 - for c++ use g++.
