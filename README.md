@@ -25,7 +25,7 @@ a bunch of "hello world" programs in different languages.
 
 ## full credits
 - ada is designed by jean ichibah
-- batchfile is designed my microsoft
+- batchfile is designed by microsoft
 - c is designed by dennis ritchie
 - c# is designed and developed by microsoft
 - c++ is designed by bjarne stroustrup
