@@ -16,7 +16,7 @@ a bunch of "hello world" programs in different languages.
 - for lisp compile it using clisp.
 - for lua use luac.
 - for ocaml it is mostly recommended to compile it using ocamlc.
-- for perl use the perl interpeter
+- for perl use the perl interpeter.
 - for powershell just double-click it on linux or windows.
 - for python run it using the python interpreter or IDLE, or build it using pyinstaller.
 - for ruby use YARV or MRI.
