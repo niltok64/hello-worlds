@@ -1,4 +1,5 @@
-package org.kotlinlang.play         
 fun main() {                        
-    println("hello world!")        
+    println("hello world!")
+    print("")
+    val dummy = readLine()
 }
