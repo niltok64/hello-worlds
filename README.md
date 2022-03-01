@@ -25,8 +25,11 @@ a bunch of "hello world" programs in different languages.
  - for haxe use the built-in interpreter.
  - for haskell use ghci.
  - for html(ik its not a language, stop pestering me) open it in any browser.
+ - for idris use the built-in compiler.
  - for java compile it using the built-in compiler.
+ - for javascript use a supporting html file. you can use the index.html in the html/ folder for this.
  - for julia use the built-in REPL.
+ - for kotlin use kotlinc to compile to a jar file or use kotlinc-native to compile to native.
  - for lisp compile it using clisp.
  - for lua use luac.
  - for ocaml it is mostly recommended to compile it using ocamlc, dune or [obuild](https://github.com/ocaml-obuild/obuild).
