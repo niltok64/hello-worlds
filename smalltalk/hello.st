@@ -1,3 +1,3 @@
-"Hello world Program"
+"hello world program"
 
-'Hello World!' printNl !
+'hello world!' printNl !
