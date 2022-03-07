@@ -1,4 +1,5 @@
 # hello-worlds
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)<br>
 a bunch of "hello world" programs in different languages.
 
 ## building stuff
