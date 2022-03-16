@@ -39,4 +39,8 @@ a bunch of "hello world" programs in different languages.
  - for python run it using the python interpreter or IDLE, or build it using pyinstaller.
  - for ruby use YARV or MRI.
  - for rust use rustc.
+ - for scala use scalac.
  - for shell just double-click it on any unix-based system.
+ - for smalltalk use the smalltalk runtime, preferably open smalltalk.
+ - for sql preferably use postgresql.
+ - for standard ml use the built-in compiler.
