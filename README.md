@@ -43,4 +43,4 @@ a bunch of "hello world" programs in different languages.
  - for shell just double-click it on any unix-based system.
  - for smalltalk use the smalltalk runtime, preferably open smalltalk.
  - for sql preferably use postgresql.
- - for standard ml use the built-in compiler.
+ - for standard ml use *use*.
