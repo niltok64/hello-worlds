@@ -45,3 +45,11 @@ a bunch of "hello world" programs in different languages.
  - for sql preferably use postgresql.
  - for standard ml use *use*.
  - for swift use the built-in compiler.
+ - for tex run it in gnu texmacs.
+ - for tl-basic use a basic compiler.
+ - for typescript compile it to javascript using the built-in compiler.
+ - for v use the built-in compiler to compile to C, then use llvm clang or gcc to compile to machine code from there.
+ - for visual basic use the built-in compiler.
+ - for webassembly run it in a web browser.
+ - for yorick use the built-in compiler.
+ - for zig use the built-in compiler.
